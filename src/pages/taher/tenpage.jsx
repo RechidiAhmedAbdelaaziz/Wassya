@@ -135,8 +135,8 @@ export default function Seven( {active , setactive , creanciers ,setcreanciers})
                     <p className="mt-6 text-sm text-gray-300">Si une personne me doit de l’argent, je lui en fais grâce.</p>
                 </div>
                 <div className="navigation-buttons mt-4">
-                    <button className="nav-button back-button" onClick={handelback}>Back</button>
-                    <button className="nav-button next-button" onClick={handelsend}>Next</button>
+                    <button className="nav-button back-button" onClick={handelback}>Retour</button>
+                    <button className="nav-button next-button" onClick={handelsend}>Suivant</button>
                 </div>
             </div>
     }

@@ -23,8 +23,8 @@ function tweleve({active , setactive  }) {
                     satisfassent et améliore ma descendance. Je me repentis à Toi et je suis du nombre des musulmans. </p>
                 </div>
                 <div className="navigation-buttons">
-                    <button className="nav-button back-button" onClick={handelback}>Back</button>
-                    <button className="nav-button next-button" onClick={handelsend}>Next</button>
+                    <button className="nav-button back-button" onClick={handelback}>Retour</button>
+                    <button className="nav-button next-button" onClick={handelsend}>Suivant</button>
                 </div>
             </div>
     }

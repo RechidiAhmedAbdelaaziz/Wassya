@@ -22,7 +22,7 @@ export default function Firstpage( {active , setactive}) {
                     <h1 className="page-title">MON TESTAMENT</h1>
                     </div>
                 <div className="navigation-buttons">
-                    <button className="nav-button next-button" onClick={handelsend}>Next</button>
+                    <button className="nav-button next-button" onClick={handelsend}>Suivant</button>
                 </div>
             </div>
     }

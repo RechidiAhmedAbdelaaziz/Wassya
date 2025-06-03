@@ -33,8 +33,8 @@ export default function Firstpage( {active , setactive}) {
                     </p>
                 <p className="italic">— Sourate 2 – Verset 180</p>
                 <div className="navigation-buttons">
-                    <button className="nav-button back-button" onClick={handelback}>Back</button>
-                    <button className="nav-button next-button" onClick={handelsend}>Next</button>
+                    <button className="nav-button back-button" onClick={handelback}>Retour</button>
+                    <button className="nav-button next-button" onClick={handelsend}>Suivant</button>
                 </div>
             </div>
     }
