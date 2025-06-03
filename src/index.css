@@ -27,3 +27,22 @@ button, input, textarea, select {
   font-family: 'Poppins', 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 }
 
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5em; /* Adjust heading sizes for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-size: 1.2em; /* Further adjust heading sizes for very small screens */
+  }
+}
+
