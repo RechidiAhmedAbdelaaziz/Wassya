@@ -10,6 +10,6 @@ export default defineConfig({
 		historyApiFallback: true, // <--- Important
 	},
 	preview: {
-		allowedHosts: ["wassiya.rechidiahmed.me"],
+		allowedHosts: ["wassiya.rechidiahmed.me", "wassya.vercel.app"],
 	},
 });
